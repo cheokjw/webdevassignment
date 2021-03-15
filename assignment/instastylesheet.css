@@ -20,6 +20,13 @@ nav a {
     border-style: ridge;
     border-color: white;        
     text-align: center;
+    font-size: 13pt;
+}
+
+#vid {
+    font-size: 20pt;
+    text-align: center;
+    font-weight: bold;
 }
 
 #footer {
