@@ -1,5 +1,5 @@
 nav {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 nav a {
@@ -7,6 +7,11 @@ nav a {
     text-decoration: none;
 }
 
+#background {
+    background-image: url("photos and videos/asoggetti-413830-unsplash-800x534.jpg");
+    background-size: 1550px 720px;
+    background-repeat: no-repeat;
+}
 #content {
     text-align: center;
     margin-top: 150px;
