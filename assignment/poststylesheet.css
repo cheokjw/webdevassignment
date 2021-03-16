@@ -14,7 +14,7 @@ td{
 
 #background {
     background-image: url("photos and videos/asoggetti-413830-unsplash-800x534.jpg");
-    background-size: 1550px 1400px;
+    background-size: 1550px 1910px;
     background-repeat: no-repeat;
 }
 
@@ -24,6 +24,7 @@ td{
 }
 table, th, td{
     margin-top: 175px;
+    margin-left: 250px;
     border: 1px solid black;
 }
 
