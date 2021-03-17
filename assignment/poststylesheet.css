@@ -26,6 +26,7 @@ table, th, td{
     margin-top: 175px;
     margin-left: 250px;
     border: 1px solid black;
+    border-collapse: collapse;
 }
 
 caption{
@@ -41,6 +42,14 @@ caption{
 
 #footer {
     background-color: #333333;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+#location a{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
