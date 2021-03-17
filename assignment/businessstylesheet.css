@@ -9,7 +9,7 @@ nav a {
 }
 
 #background {
-    background-image: url("photos and videos/asoggetti-413830-unsplash-800x534.jpg");
+    background-image: url("background/plainpink-insta.jfif");
     background-size: 100% 695%;
     background-repeat: no-repeat;
 }
@@ -17,6 +17,15 @@ nav a {
 #content {
     text-align: center;
     margin-top: 150px;
+    font-size: 50px;
+    font-weight: 300;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#content {
+    margin-left: -760px;
+    margin-top: 200px;
     font-size: 50px;
     font-weight: 300;
     color: black;
@@ -31,9 +40,48 @@ nav a {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#tid {
+    font-size: 15pt;
+    color: tomato;
+    text-align: left;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #vid {
+    font-size: 30pt;
+    text-align: right;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cid {
+    font-size: 30pt;
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#qid {
+    font-size: 30pt;
+    color: royalblue;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#xid {
+    font-size: 30pt;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#zid {
     font-size: 20pt;
-    text-align: center;
+    text-align: right;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -47,7 +95,7 @@ nav a {
     text-align: center;
 }
 
-#location a {
+#tel a {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
@@ -55,7 +103,7 @@ nav a {
     text-align: center;
 }
 
-#tel a {
+#location a {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
