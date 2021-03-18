@@ -13,7 +13,7 @@ td{
 }
 
 #background {
-    background-image: url("photos and videos/asoggetti-413830-unsplash-800x534.jpg");
+    background-image: url("background/212-2125571_download-material-design-iphone-x.jpg");
     background-size: 100% 120%;
     background-repeat: no-repeat;
 }
@@ -23,6 +23,7 @@ td{
 
 }
 table, th, td{
+    background-color: lightgreen;
     margin-top: 175px;
     margin-left: 250px;
     border: 1px solid black;

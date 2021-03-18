@@ -13,8 +13,8 @@ td{
 }
 
 #background {
-    background-image: url("photos and videos/asoggetti-413830-unsplash-800x534.jpg");
-    background-size: 100% 130%;
+    background-image: url("background/5e3se8zse2j41.png");
+    background-size: 120% 125%;
     background-repeat: no-repeat;
 }
 
@@ -23,7 +23,9 @@ td{
 
 }
 table, th, td{
+    background-color: lightskyblue;
     margin-top: 175px;
+    margin-left: 190px;
     border: 1px solid black;
     border-collapse: collapse;
 }
