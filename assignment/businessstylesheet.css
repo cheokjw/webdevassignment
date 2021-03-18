@@ -8,9 +8,13 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color:indigo;
+}
+
 #background {
-    background-image: url("background/plainpink-insta.jfif");
-    background-size: 100% 695%;
+    background-image: url("background/4ce6e7cbea34f0254eb5b6a0666e78ae.jpg");
+    background-size: 100% 750%;
     background-repeat: no-repeat;
 }
 
@@ -117,6 +121,10 @@ nav a {
     font-size: 10px;
     text-decoration: none;
     text-align: center;
+}
+
+#footer a:hover {
+    color:skyblue;
 }
 
 #tel a {

@@ -8,8 +8,12 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color:indigo;
+}
+
 #background {
-    background-image: url("photos and videos/asoggetti-413830-unsplash-800x534.jpg");
+    background-image: url("background/5e3se8zse2j41.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -18,8 +22,8 @@ nav a {
     text-align: center;
     margin-top: 150px;
     font-size: 50px;
-    font-weight: 300;
-    color: black;
+    font-weight: 100%;
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -38,6 +42,10 @@ nav a {
     font-size: 10px;
     text-decoration: none;
     text-align: center;
+}
+
+#footer a:hover {
+    color:skyblue;
 }
 
 #tel a {

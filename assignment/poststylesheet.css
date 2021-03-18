@@ -8,6 +8,10 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color:indigo;
+}
+
 td{
     font-size: 15px;
 }
@@ -20,14 +24,35 @@ td{
 
 #content {
     font-family: Arial, Helvetica, sans-serif;
-
+    margin-left: 100px;
 }
-table, th, td{
-    background-color: lightgreen;
+
+#header {
+    color:white;
+}
+
+table{
+    margin: 25px 0;
     margin-top: 175px;
-    margin-left: 250px;
-    border: 1px solid black;
+    margin-left: 200px;
+    min-width: 500px;
     border-collapse: collapse;
+}
+
+thead tr {
+    background-color: #009879;
+    color:white;
+    text-align: center;
+}
+
+th,td {
+    padding:12px 15px;
+    font-size: 14pt;
+    text-align: center;
+}
+
+tbody tr:last-of-type {
+    border-bottom: 4px solid #009879;
 }
 
 caption{
@@ -48,6 +73,10 @@ caption{
     font-size: 10px;
     text-decoration: none;
     text-align: center;
+}
+
+#footer a:hover {
+    color:skyblue;
 }
 
 #location a{
