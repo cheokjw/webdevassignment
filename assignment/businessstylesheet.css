@@ -25,7 +25,7 @@ nav a {
 
 #content {
     margin-left: -760px;
-    margin-top: 200px;
+    margin-top: 150px;
     font-size: 50px;
     font-weight: 300;
     color: black;
@@ -48,6 +48,14 @@ nav a {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#gid {
+    font-size: 20pt;
+    color: coral;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #vid {
     font-size: 30pt;
     text-align: right;
@@ -64,15 +72,31 @@ nav a {
 }
 
 #qid {
-    font-size: 30pt;
+    font-size: 20pt;
     color: royalblue;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#xid {
+    font-size: 30pt;
+    color: black;
     text-align: left;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#xid {
-    font-size: 30pt;
+#uid {
+    font-size: 15pt;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#hid {
+    font-size: 20pt;
     color: black;
     text-align: left;
     font-weight: bold;
