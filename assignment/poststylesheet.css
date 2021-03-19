@@ -37,6 +37,8 @@ td{
     color:white;
 }
 
+/*The min-width property defines the minimum width of an element.
+The border-collapse property sets whether table borders should collapse into a single border or be separated as in standard HTML.*/
 table{
     margin: 25px 0;
     margin-top: 175px;
@@ -51,19 +53,20 @@ thead tr {
     text-align: center;
 }
 
-th,td {
+/*Padding creates extra space within an element, while margin creates extra space around an element.*/
+tr,td {
     padding:12px 15px;
     font-size: 14pt;
     text-align: center;
 }
 
+/*last column of the table*/
 tbody tr:last-of-type {
     border-bottom: 4px solid #009879;
 }
 
 caption{
-    font-size: 25px;
-    
+    font-size: 25px; 
 }
 
 #desc {

@@ -42,23 +42,7 @@ nav a:hover {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#desc {
-    border-style: ridge;
-    border-color: white;
-    text-align: center;
-    font-size: 13pt;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#tid {
-    font-size: 15pt;
-    color: tomato;
-    text-align: left;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#gid {
+#cap1 {
     font-size: 20pt;
     color: coral;
     text-align: left;
@@ -73,7 +57,7 @@ nav a:hover {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#cid {
+#cap2 {
     font-size: 30pt;
     color: white;
     text-align: left;
@@ -81,7 +65,7 @@ nav a:hover {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#qid {
+#cap3 {
     font-size: 20pt;
     color: royalblue;
     text-align: left;
@@ -89,7 +73,7 @@ nav a:hover {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-#xid {
+#cap4 {
     font-size: 30pt;
     color: black;
     text-align: left;
@@ -97,7 +81,7 @@ nav a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#uid {
+#cap5 {
     font-size: 15pt;
     color: black;
     text-align: left;
@@ -105,19 +89,12 @@ nav a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#hid {
+#cap6 {
     font-size: 20pt;
     color: black;
     text-align: left;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-#zid {
-    font-size: 20pt;
-    text-align: right;
-    font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 #footer {
@@ -157,14 +134,3 @@ nav a:hover {
     text-align: center;
 }
 
-.font1 {
-    color: black;
-    font-size: 20px;
-    text-align: center;
-}
-
-.slogan {
-    color: black;
-    font-size: 30px;
-    text-align: center;
-}

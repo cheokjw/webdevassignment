@@ -3,6 +3,7 @@ nav {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*display: inline-block does not add a line-break after the element,*/
 nav ul li {
     list-style: none;
     display: inline-block;
@@ -33,7 +34,7 @@ nav a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#vid {
+#cap {
     font-size: 20px;
 }
 
