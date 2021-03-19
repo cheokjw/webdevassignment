@@ -8,6 +8,12 @@ nav a {
     text-decoration: none;
 }
 
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
 nav a:hover {
     color:white;
 }

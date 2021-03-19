@@ -12,6 +12,12 @@ nav a:hover {
     color:white
 }
 
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
 td{
     font-size: 15px;
 }
